@@ -1292,41 +1292,41 @@ a {
     left: -1rem;
   }
 }
-.cid-sWI6o5Uz2v {
-  padding-top: 6rem;
+.portada_1 {
+  padding-top: 10rem;
   padding-bottom: 6rem;
   background-image: url("../../../assets/images/rio-amazonas.jpg");
 }
-.cid-sWI6o5Uz2v .content-wrapper {
-  background: #fafafa;
+.portada_1 .content-wrapper {
+  background-color: rgba(250, 250, 250, .8);
 }
 @media (max-width: 991px) {
-  .cid-sWI6o5Uz2v .content-wrapper .row {
+  .portada_1 .content-wrapper .row {
     flex-direction: column-reverse;
   }
-  .cid-sWI6o5Uz2v .content-wrapper .image-wrapper {
+  .portada_1 .content-wrapper .image-wrapper {
     margin-bottom: 2rem;
   }
 }
 @media (max-width: 767px) {
-  .cid-sWI6o5Uz2v .content-wrapper {
+  .portada_1 .content-wrapper {
     padding: 1rem;
   }
 }
 @media (min-width: 768px) and (max-width: 991px) {
-  .cid-sWI6o5Uz2v .content-wrapper {
+  .portada_1 .content-wrapper {
     padding: 2rem;
   }
 }
 @media (min-width: 992px) {
-  .cid-sWI6o5Uz2v .content-wrapper {
+  .portada_1 .content-wrapper {
     padding: 5rem 3rem;
   }
-  .cid-sWI6o5Uz2v .content-wrapper .text-wrapper {
+  .portada_1 .content-wrapper .text-wrapper {
     padding-right: 2rem;
   }
 }
-.cid-sWI6o5Uz2v .image-wrapper img {
+.portada_1 .image-wrapper img {
   width: 100%;
   object-fit: cover;
 }
