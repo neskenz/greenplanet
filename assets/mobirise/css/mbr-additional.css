@@ -1330,33 +1330,33 @@ a {
   width: 100%;
   object-fit: cover;
 }
-.cid-sWIf0ddcjS {
+.green-pilar {
   padding-top: 3rem;
   padding-bottom: 3rem;
   background-color: #000000;
 }
-.cid-sWIf0ddcjS .card-wrapper {
+.green-pilar .card-wrapper {
   display: flex;
 }
 @media (max-width: 991px) {
-  .cid-sWIf0ddcjS .card-wrapper {
+  .green-pilar .card-wrapper {
     margin-bottom: 2rem;
   }
 }
-.cid-sWIf0ddcjS .mbr-iconfont {
+.green-pilar .mbr-iconfont {
   font-size: 2rem;
   color: #339900;
   padding-right: 1.5rem;
 }
-.cid-sWIf0ddcjS .card-title {
+.green-pilar .card-title {
   color: #fafafa;
 }
-.cid-sWIf0ddcjS .card-text {
+.green-pilar .card-text {
   color: #fafafa;
 }
 .cid-sFANq99njx {
-  padding-top: 2rem;
-  padding-bottom: 2rem;
+  padding-top: 4rem;
+  padding-bottom: 4rem;
   background-color: #edf5e1;
 }
 .cid-sFANq99njx .content-wrapper {
@@ -1428,24 +1428,24 @@ a {
 .cid-sWm9kMlYh5 .mbr-section-subtitle {
   color: #353535;
 }
-.cid-sWmapUfq8f {
+.green-service {
   padding-top: 1rem;
   padding-bottom: 0rem;
   background-color: #ffffff;
 }
-.cid-sWmapUfq8f img,
-.cid-sWmapUfq8f .item-img {
+.green-service img,
+.green-service .item-img {
   width: 100%;
 }
-.cid-sWmapUfq8f .item:focus,
-.cid-sWmapUfq8f span:focus {
+.green-service .item:focus,
+.green-service span:focus {
   outline: none;
 }
-.cid-sWmapUfq8f .item {
+.green-service .item {
   cursor: pointer;
   margin-bottom: 2rem;
 }
-.cid-sWmapUfq8f .item-wrapper {
+.green-service .item-wrapper {
   position: relative;
   border-radius: 4px;
   background: #fafafa;
@@ -1454,36 +1454,36 @@ a {
   flex-flow: column nowrap;
 }
 @media (min-width: 992px) {
-  .cid-sWmapUfq8f .item-wrapper .item-content {
-    padding: 2rem 2rem 0;
-  }
-  .cid-sWmapUfq8f .item-wrapper .item-footer {
-    padding: 0 2rem 2rem;
-  }
-}
-@media (max-width: 991px) {
-  .cid-sWmapUfq8f .item-wrapper .item-content {
+  .green-service .item-wrapper .item-content {
     padding: 1rem 1rem 0;
   }
-  .cid-sWmapUfq8f .item-wrapper .item-footer {
+  .green-service .item-wrapper .item-footer {
     padding: 0 1rem 1rem;
   }
 }
-.cid-sWmapUfq8f .mbr-section-btn {
+@media (max-width: 991px) {
+  .green-service .item-wrapper .item-content {
+    padding: 1rem 1rem 0;
+  }
+  .green-service .item-wrapper .item-footer {
+    padding: 0 1rem 1rem;
+  }
+}
+.green-service .mbr-section-btn {
   margin-top: auto !important;
 }
-.cid-sWmapUfq8f .mbr-section-title {
+.green-service .mbr-section-title {
   color: #232323;
 }
-.cid-sWmapUfq8f .mbr-text,
-.cid-sWmapUfq8f .mbr-section-btn {
+.green-service .mbr-text,
+.green-service .mbr-section-btn {
   text-align: left;
 }
-.cid-sWmapUfq8f .item-title {
+.green-service .item-title {
   text-align: left;
   color: #05386b;
 }
-.cid-sWmapUfq8f .item-subtitle {
+.green-service .item-subtitle {
   text-align: left;
 }
 .cid-sWmaOK1iNA {
@@ -1552,45 +1552,45 @@ a {
   color: #353535;
   text-align: left;
 }
-.cid-sWHUXLilJr {
+.green-certificacion {
   padding-top: 2rem;
   padding-bottom: 2rem;
   background-color: #ffffff;
 }
-.cid-sWHUXLilJr .content-wrapper {
+.green-certificacion .content-wrapper {
   background: #fafafa;
 }
 @media (max-width: 991px) {
-  .cid-sWHUXLilJr .content-wrapper .row {
+  .green-certificacion .content-wrapper .row {
     flex-direction: column-reverse;
   }
-  .cid-sWHUXLilJr .content-wrapper .image-wrapper {
+  .green-certificacion .content-wrapper .image-wrapper {
     margin-bottom: 2rem;
   }
 }
 @media (max-width: 767px) {
-  .cid-sWHUXLilJr .content-wrapper {
+  .green-certificacion .content-wrapper {
     padding: 1rem;
   }
 }
 @media (min-width: 768px) and (max-width: 991px) {
-  .cid-sWHUXLilJr .content-wrapper {
+  .green-certificacion .content-wrapper {
     padding: 2rem;
   }
 }
 @media (min-width: 992px) {
-  .cid-sWHUXLilJr .content-wrapper {
+  .green-certificacion .content-wrapper {
     padding: 5rem 3rem;
   }
-  .cid-sWHUXLilJr .content-wrapper .text-wrapper {
+  .green-certificacion .content-wrapper .text-wrapper {
     padding-right: 2rem;
   }
 }
-.cid-sWHUXLilJr .image-wrapper img {
+.green-certificacion .image-wrapper img {
   width: 100%;
   object-fit: cover;
 }
-.cid-sWHUXLilJr .card-title {
+.green-certificacion .card-title {
   color: #000d6d;
 }
 .cid-sWmaRs3nuj {
