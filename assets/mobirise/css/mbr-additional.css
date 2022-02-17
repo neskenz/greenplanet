@@ -1436,6 +1436,8 @@ a {
 .green-service img,
 .green-service .item-img {
   width: 100%;
+  height: 200px;
+  object-fit: cover;
 }
 .green-service .item:focus,
 .green-service span:focus {
